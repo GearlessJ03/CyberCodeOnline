@@ -279,6 +279,18 @@
 		"fixing a corrupted storage system to stabilize the simulation",
 		"putting it in rice",
 		"resilvering the array"
+		"process harrowing"
+		"command line injection" 
+		"password bashing"
+		"authentication spoofing"
+		"wardriving"
+		"WLAN scanning"
+		"elevating to root"
+		"passive reconnaissance"
+		"reverse engineering"
+		"spoofing geolocation"
+		"voice phishing"
+		"chmod 777 system.ini"
 	], 
 	"goodGuys": [
 		"Aged Hero",
